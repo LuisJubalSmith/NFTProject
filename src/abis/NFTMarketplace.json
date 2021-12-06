@@ -139,8 +139,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -184,8 +183,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -204,8 +202,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -236,8 +233,7 @@
       "name": "fillOffer",
       "outputs": [],
       "stateMutability": "payable",
-      "type": "function",
-      "payable": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -16213,13 +16209,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xeC93Dfbe12be00D2F0753be7dfa5E72ff08bf5B4",
-      "transactionHash": "0xcc589fe1870850b2384ae5b0444e5609863086ef57d95c6365fdc07b71c14844"
+      "address": "0x6452f3B573F69dB23947D02994002CCdeDb6b921",
+      "transactionHash": "0x2d50c2a3c30f085c8a3cbc0fad9b046e04fc17070119571c9c437048ff33bba8"
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-11-24T01:59:11.839Z",
-  "networkType": "ethereum",
+  "updatedAt": "2021-12-06T11:21:06.448Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
